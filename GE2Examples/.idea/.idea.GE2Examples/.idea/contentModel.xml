@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rhino\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rhino\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_GE2Examples.216449170.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rhino\Documents\Repositeries\GE2-2018-2019\GE2Examples" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Arrive.cs" t="Include" />
+        <e p="BigBoid.cs" t="Include" />
+        <e p="Boid.cs" t="Include" />
+        <e p="FollowPath.cs" t="Include" />
+        <e p="FPSController.cs" t="Include" />
+        <e p="Harmonic.cs" t="Include" />
+        <e p="JitterWander.cs" t="Include" />
+        <e p="LerpingCamera.cs" t="Include" />
+        <e p="NoiseWander.cs" t="Include" />
+        <e p="ObstacleAvoidance.cs" t="Include" />
+        <e p="OffsetPursue.cs" t="Include" />
+        <e p="Path.cs" t="Include" />
+        <e p="PlayerSteering.cs" t="Include" />
+        <e p="Pursue.cs" t="Include" />
+        <e p="Seek.cs" t="Include" />
+        <e p="SpineAnimator.cs" t="Include" />
+        <e p="SteeringBehaviour.cs" t="Include" />
+        <e p="SteeringTest.cs" t="Include" />
+        <e p="SteeringWheelControl.cs" t="Include" />
+        <e p="SteeringWheelSimulation.cs" t="Include" />
+      </e>
+      <e p="GE2Examples.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
