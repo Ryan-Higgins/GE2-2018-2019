@@ -6,26 +6,32 @@
     <e p="C:\Users\rhino\Documents\Repositeries\GE2-2018-2019\GE2Examples" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Arrive.cs" t="Include" />
-        <e p="BigBoid.cs" t="Include" />
-        <e p="Boid.cs" t="Include" />
-        <e p="FollowPath.cs" t="Include" />
-        <e p="FPSController.cs" t="Include" />
-        <e p="Harmonic.cs" t="Include" />
-        <e p="JitterWander.cs" t="Include" />
-        <e p="LerpingCamera.cs" t="Include" />
-        <e p="NoiseWander.cs" t="Include" />
-        <e p="ObstacleAvoidance.cs" t="Include" />
-        <e p="OffsetPursue.cs" t="Include" />
-        <e p="Path.cs" t="Include" />
-        <e p="PlayerSteering.cs" t="Include" />
-        <e p="Pursue.cs" t="Include" />
-        <e p="Seek.cs" t="Include" />
-        <e p="SpineAnimator.cs" t="Include" />
-        <e p="SteeringBehaviour.cs" t="Include" />
-        <e p="SteeringTest.cs" t="Include" />
-        <e p="SteeringWheelControl.cs" t="Include" />
-        <e p="SteeringWheelSimulation.cs" t="Include" />
+        <e p="Flee.cs" t="Include" />
+        <e p="PredatorController.cs" t="Include" />
+        <e p="PreyController.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Arrive.cs" t="Include" />
+          <e p="BigBoid.cs" t="Include" />
+          <e p="Boid.cs" t="Include" />
+          <e p="FollowPath.cs" t="Include" />
+          <e p="FPSController.cs" t="Include" />
+          <e p="Harmonic.cs" t="Include" />
+          <e p="JitterWander.cs" t="Include" />
+          <e p="LerpingCamera.cs" t="Include" />
+          <e p="NoiseWander.cs" t="Include" />
+          <e p="ObstacleAvoidance.cs" t="Include" />
+          <e p="OffsetPursue.cs" t="Include" />
+          <e p="Path.cs" t="Include" />
+          <e p="PlayerSteering.cs" t="Include" />
+          <e p="Pursue.cs" t="Include" />
+          <e p="Seek.cs" t="Include" />
+          <e p="SpineAnimator.cs" t="Include" />
+          <e p="StateMachine.cs" t="Include" />
+          <e p="SteeringBehaviour.cs" t="Include" />
+          <e p="SteeringTest.cs" t="Include" />
+          <e p="SteeringWheelControl.cs" t="Include" />
+          <e p="SteeringWheelSimulation.cs" t="Include" />
+        </e>
       </e>
       <e p="GE2Examples.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />
